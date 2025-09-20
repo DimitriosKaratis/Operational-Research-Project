@@ -1,9 +1,9 @@
-# 📊 Operations Research Project (2025)
+# 📊 School Timetabling & Supply Chain Optimization problems
 
-This repository contains the **Operations Research project** for the course  
-**Επιχειρησιακή Έρευνα (Operations Research)**,  
-Department of Electrical & Computer Engineering,  
-Aristotle University of Thessaloniki.
+
+This repository contains the modeling and solution of optimization problems in **Operations Research**.  
+The work was developed as part of the Operations Research course project at the Department of Electrical and Computer Engineering, **Aristotle University of Thessaloniki**.
+
 
 ## 📌 Project Overview
 
