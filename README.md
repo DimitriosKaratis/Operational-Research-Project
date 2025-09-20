@@ -43,5 +43,3 @@ A company plans to open new warehouses to serve **12 sales centers**.
 
 **Objective:**  
 Decide which warehouses to open and how to allocate demands to minimize **total installation + transportation cost**, while covering all demands.
-
-## 📂 Repository Structure
