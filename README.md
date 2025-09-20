@@ -1,8 +1,8 @@
-# 📊 School Timetabling & Supply Chain Optimization problems
+# School Timetabling & Supply Chain Optimization problems
 
 
 This repository contains the modeling and solution of optimization problems in **Operations Research**.  
-The work was developed as part of the Operations Research course project at the Department of Electrical and Computer Engineering, **Aristotle University of Thessaloniki**.
+The work was developed as part of the *Operations Research* course project at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.
 
 
 ## 📌 Project Overview
