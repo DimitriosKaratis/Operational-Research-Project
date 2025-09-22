@@ -5,7 +5,7 @@ This repository contains the modeling and solution of optimization problems in *
 The work was developed as part of the *Operations Research* course project at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.
 
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 The project consists of two main optimization problems:
 
